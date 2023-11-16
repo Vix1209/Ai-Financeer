@@ -3,7 +3,7 @@
 An Ai dashboard built with MERN stack, using typescript inorder to calculate and document a company's fiancial state, past and present. 
 Afterwards, predicting their future fiancancial health, based on their current financial data
 
-Running on https://aifinanceer.vercel.app/
+Running on https://ai-financeer.vercel.app/
 
 --------------------------------------------------------------------
 
